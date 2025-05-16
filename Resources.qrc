@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>Resources/account-circle-fill.png</file>
+        <file>Resources/arrow-down-s-fill.png</file>
+        <file>Resources/BankCard.png</file>
+    </qresource>
+</RCC>
